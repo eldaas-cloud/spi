@@ -27,7 +27,7 @@ Make sure you have the following installed on your machine:
 **Clone this Project**
 
 ```bash
-git clone https://github.com/CodeScrapper1/trello-clone.git
+git clone https://github.com/eldaas-cloud/spi.git
 cd trello-clone
 ```
 
